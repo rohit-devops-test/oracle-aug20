@@ -1,0 +1,45 @@
+a = 5    b = 2
+
+# --- Rohit 
+t1 = a * b + a * b ... 14X
+t2 = t1 + 5
+t3 = t2 + b/b
+
+From Manjeet Singh to Everyone:  11:03 AM
+-- =5*2*5*2 + 5*2*5 - 2*2
+
+t1 = 5*2*5*2 
+t2 = t1 + 5*2*5 
+t3 = t2 - 2*2
+
+From Shivanee Shinde to Everyone:  11:05 AM
+5*(5*4+4) + 2*(2*1+1) + (5 * 2 * 2)
+120 + 6
+
+5*(5*(5-1)+(5-1) + 2*(2*(2-1)+1)
+
+From Amol Auti to Everyone:  11:07 AM
+a=5 b=2
+
+x= a x a 
+y= x * a 
+z= y + x - (b * b)
+
+From Faisal to Everyone:  11:07 AM
+t1 = 5*5*5
+t2 = 2*2*2*2
+t3 = 5 
+
+final = t1 + t2 + t3
+
+
+----
+
+c1 = a * b
+c2 = c1 * c1
+c3 = c1 * a
+c4 = c2 + c3
+c5 = c4 - (b * b)
+
+
+146
