@@ -1,0 +1,9 @@
+{
+    "name": "Raj",
+    "languages": [
+        "English",
+        "Fench"
+    ],
+    "married": true,
+    "age": 32
+}
